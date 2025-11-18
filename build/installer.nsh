@@ -1,0 +1,1 @@
+; NSIS script placeholder
